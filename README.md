@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Hi there, I'm **KUVAL BHARIJ**, a **Computer Science student** 🚀 from New Delhi, India.
 
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 **About Me!**
 
